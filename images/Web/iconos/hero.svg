@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 569" width="1260" height="569">
+	<title>hero-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="630" y1="0" x2="630" y2="569" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ea3a3b"/>
+			<stop offset=".3" stop-color="#ea2122"/>
+			<stop offset=".4" stop-color="#ea2829"/>
+			<stop offset="1" stop-color="#ea5455"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<path id="Layer" class="s0" d="m0 531.4v-531.4h1260v207.3c-308.9 100.8-949.4 330-1085.1 353.6-135.7 23.6-173.2-9.8-174.9-29.5z"/>
+</svg>
